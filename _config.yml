@@ -18,7 +18,7 @@ plugins:
 
 ## personalize your slide show
 title:       github-slideshow
-author:      GitHubTeacher
+author:      skibell
 description: A fun activity for learning Git and GitHub.
 
 sass:
